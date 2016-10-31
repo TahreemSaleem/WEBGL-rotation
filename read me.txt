@@ -1,0 +1,2 @@
+Create a hexagon and a pentagon. Rotate them by an angle. The angle is controlled by a slider. You can implement dat.gui instead of implementing the slider in the HTML [1]. 
+Translate the pentagon by 0.5 and hexagon by -0.5 on x-axis.
